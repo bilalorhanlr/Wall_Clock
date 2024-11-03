@@ -24,10 +24,10 @@ Arduino'nun gücünü ve NeoPixel LED'lerin renk seçeneklerini kullanarak, hem 
 Aşağıda proje sırasında çekilen görseller bulunmaktadır:
 
 #### Montaj Görüntüsü
-[![Montaj Görüntüsü](github.com/bilalorhanlr/Wall_Clock/blob/main/clock1.jpeg)]
+![Clock Image 2](https://github.com/bilalorhanlr/Wall_Clock/blob/main/clock1.jpeg)
 
 #### Çalışır Durumda LED Gösterimi
-[![Çalışır Görüntüsü](github.com/bilalorhanlr/Wall_Clock/blob/main/clock4.jpeg)]
+![Clock Image 2](https://github.com/bilalorhanlr/Wall_Clock/blob/main/clock4.jpeg)
 
 ---
 
